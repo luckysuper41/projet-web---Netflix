@@ -216,7 +216,7 @@ img {
     color: #fff;
     font-weight: 300;
     font-size: 1.1rem;
-    line-height: 3rem;
+    line-height: 2rem;
  }
 
 .search-bar{
@@ -460,7 +460,7 @@ img {
     .span-text{
         font-weight: 200;
         font-size: 0.8rem;
-        line-height: 2rem;
+        line-height: 1rem;
     }
     .text-md{
         font-size: 0.7rem;
@@ -555,7 +555,21 @@ img {
     }
     .content-2{
     padding-bottom: 3rem;
-}
+    }
+    .question-topic{
+    width: 80%;
+    }
+
+    .question-content{
+        width: 80%;
+    }
+
+    .question-bottom-top-item button{
+        width: 80vw;
+    }
+    .question-bottom-bottom-item{
+        width: 80vw;
+    }
 }
 
 
