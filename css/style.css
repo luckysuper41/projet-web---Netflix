@@ -216,7 +216,7 @@ img {
     color: #fff;
     font-weight: 300;
     font-size: 1.1rem;
-    line-height: 3rem;
+    line-height: 2rem;
  }
 
 .search-bar{
@@ -460,7 +460,7 @@ img {
     .span-text{
         font-weight: 200;
         font-size: 0.8rem;
-        line-height: 2rem;
+        line-height: 1rem;
     }
     .text-md{
         font-size: 0.7rem;
