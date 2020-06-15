@@ -38,3 +38,7 @@ questionItems.forEach(item => {
 questionItems.forEach(item => {
 	item.addEventListener('mouseenter', removeShow);
 });
+// Listen for question item click
+questionItems.forEach(item => {
+	item.addEventListener('dblclick', removeShow);
+});
